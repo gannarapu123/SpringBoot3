@@ -12,5 +12,9 @@ public class Utility {
 		System.out.println("Utility m1() method..Hello");
         System.out.println("Hello ");
 	}
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
+	
 
 }
